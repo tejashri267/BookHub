@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/drawable-anydpi/Star.xml" value="0.184" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/drawable/ic_ratings.xml" value="0.184" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/activity_description.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/activity_main2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/drawer_header.xml" value="0.12" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/fragment_aboutapp.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/fragment_favourites.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/recycler_dashboard_single_row.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/layout/recycler_favourite_single_row.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/menu/book_drawer.xml" value="0.1546875" />
+        <entry key="..\:/Users/Tejashri/BookHub/app/src/main/res/xml/network_cinfig_sercurity.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

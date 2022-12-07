@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="open_drawer" />
+    <string name="close_drawer" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">dashboard_fragment</string>
+    <string name="favourites_fragment">Favourites_Fragment</string>
+    <string name="profile_fragment">profile_fragment</string>
+    <string name="aboutapp_fragment">aboutapp_fragment</string>
+    <string name="sign_up" />
+    <string name="first_name" />
+    <string name="last_name" />
+    <string name="we_need_a_few_details_to_get_your_account_ready" />
+    <string name="email" />
+    <string name="your_example_com" />
+    <string name="password" />
+    <string name="password_hint" />
+    <string name="confirm_password" />
+    <string name="already_have_an_account" />
+    <string name="sign_in" />
+</resources>
